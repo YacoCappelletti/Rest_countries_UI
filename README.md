@@ -6,7 +6,7 @@ A simple interface i made for practising with React, Redux and data fetching
 
 The application comprises a search engine and two filters that will send requests to the [REST countries](https://restcountries.com/) API in real-time as you type in the search engine or adjust the filters, and it will display the corresponding results.
 
-![Screenshot](/assets/screencapture.png)
+![Screenshot](./public/assets/screencapture.png)
 
 ## Getting Started
 
